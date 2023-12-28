@@ -6,4 +6,4 @@ Utilizes variety of React and JavaScript features to help with learning.
 
 CSS styles were pre-built.
 
-Order button is not mant to function.
+Order button is not meant to function.
