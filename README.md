@@ -1,3 +1,9 @@
-React-Based Application. Created following a guide on Udemy.
+Fast React Pizza Co.
 
-..Testing clone on G15
+React-Based Application. 
+
+Utilizes variety of React and JavaScript features to help with learning.
+
+CSS styles were pre-built.
+
+Order button is not mant to function.
